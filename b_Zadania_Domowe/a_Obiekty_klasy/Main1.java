@@ -16,7 +16,7 @@ public class Main1 {
 
     mojeKonto.printInfo();
 
-    mojeKonto.depositCash(-20.20);
+    mojeKonto.depositCash(-20.10);
 
     mojeKonto.printInfo();
 
